@@ -263,7 +263,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### 🌟 Star the Repository
 If you find this project helpful, please give it a ⭐ on GitHub!
 
-[![GitHub stars](https://img.shields.io/github/stars/jonathanrao99/Brain-Tumor-Detection-with-Data-Science?style=social)](https://github.com/jonathanrao99/Brain-Tumor-Detection-with-Data-Science)
+[![GitHub stars](https://img.shields.io/github/stars/jonathanrao99/Brain-Tumor-Detection-using-Deep-Learning?style=social)](https://github.com/jonathanrao99/Brain-Tumor-Detection-using-Deep-Learning)
 
 ### 📞 Connect & Support
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathanrao99)
